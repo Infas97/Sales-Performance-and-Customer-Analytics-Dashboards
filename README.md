@@ -48,6 +48,7 @@ This dashboard focuses on the overall sales performance and includes:
 - **Sales by Products and Sub-Products**  
 - **Total Transactions**  
 - **Sales by Customer Segments**
+  
 ![Sale_Performance_Dashboard](https://github.com/Infas97/Sales-Performance-and-Customer-Analytics-Dashboards/blob/main/Sales_Performance-ezgif.com-video-to-gif-converter.gif)
 
 ### 2. Product Metrics Dashboard
@@ -55,14 +56,16 @@ This dashboard provides insights into product-related data:
 - **Total Product Cost**  
 - **Average Stock Level**  
 - **Average Product Weight**
-![Products Overview Page](https://github.com/Infas97/Sales-Performance-and-Customer-Analytics-Dashboards/blob/main/Products.gif)
+  
+![Products Overview Page](https://github.com/Infas97/Sales-Performance-and-Customer-Analytics-Dashboards/blob/main/Products-ezgif.com-video-to-gif-converter.gif)
 
 ### 3. Customer Metrics Dashboard
 This dashboard analyzes customer behavior and value:
 - **Customers by Product Categories**  
 - **Customer Lifetime Value (CLV)**  
 - **Total Customers**
-![Customer Matrics_Dashboard](https://github.com/Infas97/Sales-Performance-and-Customer-Analytics-Dashboards/blob/main/Customer.gif) 
+  
+![Customer Matrics_Dashboard](https://github.com/Infas97/Sales-Performance-and-Customer-Analytics-Dashboards/blob/main/Customer-ezgif.com-video-to-gif-converter.gif) 
 
 ---
 
