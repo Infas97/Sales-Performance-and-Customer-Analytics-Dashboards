@@ -13,9 +13,8 @@ This repository contains interactive dashboards for analyzing **Sales Performanc
    - [Product Metrics Dashboard](#product-metrics-dashboard)  
    - [Customer Metrics Dashboard](#customer-metrics-dashboard)  
 4. [Technologies Used](#technologies-used)  
-5. [Getting Started](#getting-started)  
-6. [Screenshots](#screenshots)  
-7. [Contact](#contact)  
+5. [Screenshots](#screenshots)  
+
 
 ---
 
@@ -49,21 +48,21 @@ This dashboard focuses on the overall sales performance and includes:
 - **Sales by Products and Sub-Products**  
 - **Total Transactions**  
 - **Sales by Customer Segments**
-![Dashboard Features](https://user-images.githubusercontent.com/77071381/144880706-4790bf9e-0def-474a-a310-7fdc01605060.gif)
+![Sale_Performance_Dashboard](https://github.com/Infas97/Sales-Performance-and-Customer-Analytics-Dashboards/blob/main/Sales_Performance-ezgif.com-video-to-gif-converter.gif)
 
 ### 2. Product Metrics Dashboard
 This dashboard provides insights into product-related data:
 - **Total Product Cost**  
 - **Average Stock Level**  
 - **Average Product Weight**
-![Inventory Overview Page Navigation](https://user-images.githubusercontent.com/77071381/144880744-66254032-a609-49ce-8ccb-0bda94af57c3.gif)
+![Products Overview Page](https://github.com/Infas97/Sales-Performance-and-Customer-Analytics-Dashboards/blob/main/Products.gif)
 
 ### 3. Customer Metrics Dashboard
 This dashboard analyzes customer behavior and value:
 - **Customers by Product Categories**  
 - **Customer Lifetime Value (CLV)**  
 - **Total Customers**
-![Inventory Value and Quantity graph ](https://user-images.githubusercontent.com/77071381/144880746-f47d988b-3dfa-4a3c-bb4c-6e85a4ddf5ab.gif) 
+![Customer Matrics_Dashboard](https://github.com/Infas97/Sales-Performance-and-Customer-Analytics-Dashboards/blob/main/Customer.gif) 
 
 ---
 
